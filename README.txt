@@ -1,3 +1,5 @@
+Andrew Bodzsar & Co - 09.2020
+
 This project has been carried out by 4 members as a team for a university project. It implements Dijkstra's algorithm to find the shortest route between two given stations, which can be manually selected. Journey times have been manually assigned to each station, therefore a detailed and a total time will be displayed on the results page.
 
 *** README: please follow the below instructions to run our London Underground Journey Planner ***
